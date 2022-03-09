@@ -2,7 +2,7 @@
 Francisca Moya Jimenez
 
 
-This project started as our final project for STAT 318: Regression Analysis and Statistical Models in Fall of 2021, where my partner Andrea Mock and I, fit a multiple linear regression model to identify public health indicators associated with teen birth rate in Chicago. 
+This capstone started as my final project for STAT 318: Regression Analysis and Statistical Models in Fall of 2021, where my partner Andrea Mock and I, fit a multiple linear regression model to identify public health indicators associated with teen birth rate in Chicago. 
 In my capstone project for my Data Science major, I built upon our work by looking into possible interaction models into more detail, and visualizing the interactions in the best multiple linear regression model. We can compare the first-order model and the model
 with interactions to better understand the relationships between the different predictors. 
 
@@ -19,5 +19,5 @@ Our analysis aims to identify social determinants that are associated with teen 
 ![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenBirthRate-Chicago/blob/main/firstordermodel.png?raw=true)
 
 ### Final First-Order Model with Interactions
-![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenPregnancy-Chicago/blob/2f5ad7ba402f27711f8630dc8d20f8ef5fcef515/firstOrderEq.png)
+![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenBirthRate-Chicago/blob/main/interactionmodel.png)
 
