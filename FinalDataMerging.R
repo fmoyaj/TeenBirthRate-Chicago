@@ -86,23 +86,6 @@ dim(community.area.info)
 # Saving into a csv file
 write.csv(community.area.info, "Chicago_data_by_community_cleaned.csv")
 
-# Extracting zip codes
-
-zip.codes <- data.frame(community.area.info$Community.Area.Name)
-colnames(zip.codes) <- c("Community.Area.Name")
-
-
-zipExtractor <- function(x){
-  zip <- affordable.housing[affordable.housing$Community.Area.Name == x,]$Zip.Code
-  if(!(is.integer(zip) && length(zip) == 0L)){
-    return (unique(zip))
-  }
-  else {
-    return (NULL)
-  }
-}
-
-zip.codes <- zip.codes %>% rowwise() %>% mutate(Area.Zip.Codes = list(zipExtractor(Community.Area.Name)))
 
 
 
