@@ -1,4 +1,4 @@
-# Data Science Capstone Project: Analyzing Public Health Indicators Associated with Teen Pregnancies in Chicago
+# Data Science Capstone Project: Analyzing Public Health Indicators Associated with Teenage Birth Rate in Chicago
 Francisca Moya Jimenez
 
 
