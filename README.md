@@ -21,3 +21,17 @@ Our analysis aims to identify social determinants that are associated with teen 
 #### Final First-Order Model with Interactions
 ![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenBirthRate-Chicago/blob/main/interactionmodel.png)
 
+
+## File Structure
+
+File/Directory | Content
+------------- | -------------
+Original datasets  | Original/unmerged datasets extracted from the Chicago Data Portal
+Chicago_data_by_community_cleaned.csv  | Final dataset from merged datasets
+DataAnalysis.R | R file containing all data analysis done for this project
+FinalDataMerging.R | R file containing the code to produce the final dataset
+firstordermodel.jpg | Image of the final first-order model equation
+interactionmodel.jpg | Image of the final interaction order model equation
+
+
+
