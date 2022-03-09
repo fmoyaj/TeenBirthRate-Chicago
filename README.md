@@ -1,5 +1,5 @@
 # Data Science Capstone Project: Analyzing Public Health Indicators Associated with Teenage Birth Rate in Chicago
-Francisca Moya Jimenez
+*Francisca Moya Jimenez*
 
 
 This capstone started as my final project for STAT 318: Regression Analysis and Statistical Models in Fall of 2021, where my partner Andrea Mock and I, fit a multiple linear regression model to identify public health indicators associated with teen birth rate in Chicago. 
