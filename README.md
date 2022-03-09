@@ -16,7 +16,7 @@ Our analysis aims to identify social determinants that are associated with teen 
 
 
 ### Final First-Order Model
-![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenPregnancy-Chicago/blob/2f5ad7ba402f27711f8630dc8d20f8ef5fcef515/firstOrderEq.png)
+![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenBirthRate-Chicago/blob/main/firstordermodel.png?raw=true)
 
 ### Final First-Order Model with Interactions
 ![Final first-order model using public health variables to predict teen pregnancy](https://github.com/fmoyaj/TeenPregnancy-Chicago/blob/2f5ad7ba402f27711f8630dc8d20f8ef5fcef515/firstOrderEq.png)
