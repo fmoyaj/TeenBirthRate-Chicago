@@ -32,6 +32,7 @@ DataAnalysis.R | R file containing all data analysis done for this project
 FinalDataMerging.R | R file containing the code to produce the final dataset
 firstordermodel.jpg | Image of the final first-order model equation
 interactionmodel.jpg | Image of the final interaction order model equation
+Francisca - Capstone Poster v2.pdf | PDF file of Data Science Capstone poster 
 
 
 
